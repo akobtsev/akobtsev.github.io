@@ -12,7 +12,7 @@
 - 🌍 I speak English
 
 ---
-### My Testnet nodes
+### My previous testnet nodes
 - ⛓️ Massa, SSV, Masa, SubQuery, Nibiru, Kyve, Massa, Exorde, Ironfish, QUAI
 
 
