@@ -1,4 +1,4 @@
-### Hi!👋 My name is Andrey. I am an individual @BeStake validator and blockchain enthusiast.
+### Hi!👋 My name is Andrey. I am an individual validator and blockchain enthusiast.
 
 ### About me
 - ⛓️ I have 3yrs experience in running a cryptocurrency project nodes, have taken a part in more than a twenty testnets and currently validate Massa on mainnet.
